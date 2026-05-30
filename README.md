@@ -25,6 +25,7 @@ By leaving the terminal connection mathematically defined by diameter but mechan
 
 **Top-Level Thermal Expansion:**
 While the internal Solid-Flow macro-channels provide extreme bottom-up thermal extraction, the flat top surface of the carrier and the exposed silicon die remain fully accessible. Manufacturers are encouraged to mount extended top-cooling solutions (such as direct-die water blocks or heavy-duty air coolers) directly onto the die. This enables a massive **"Sandwich-Cooling" configuration**, multiplying the thermal dissipation capacity for extreme-TDP applications.
+
 ---
 
 ## 🎯 Mission Statement
