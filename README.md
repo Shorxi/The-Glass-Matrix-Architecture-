@@ -136,12 +136,14 @@ research institutions, and semiconductor manufacturers implementing the MVC arch
 
 ---
 
-### 📘 Official PDF Library
-
 | PDF Document | Description |
 |-------------|-------------|
 | **[CARRIER TO BOARD INTERCONNECT DOSSIER](docs/CARRIER-TO-BOARD_INTERCONNECT_DOSSIER_EN.pdf)** | Universal interconnect specification for carrier‑to‑board I/O, including UBM stack, fluidic manifold, impedance rules, and inductive Co₂Z control bus. |
 | **[MASTER DOSSIER ARCHITECTURE UPGRADE V5.0](docs/MASTER_DOSSIER_ARCHITECTURE_UPGRADE_V5.0_EN.pdf)** | Full architecture dossier for the 6.0 mm Solid‑Flow carrier, including material science, SLE manifold, geometry, fracture mechanics, and cost validation. |
+| **[MVC TECHNICAL SPECIFICATION V5.0](docs/MVC_Technical_Specification_V5.0.pdf)** | Complete material, chemical, mechanical, thermal, and electrical specification of the Metallo‑Vitreous Composite (MVC) material system. |
+| **[MVC SUPPLEMENTAL MATERIAL TABLES V5.0](docs/MVC_Supplemental_Material_Tables_V5.0.pdf)** | Engineering tables with realistic material constants, particle distribution, thermal/electrical properties, and laser‑interaction data. |
+| **[MVC MATERIAL DATASHEET V5.0](docs/MVC_Material_Datasheet_V5.0.pdf)** | One‑page industrial datasheet summarizing key MVC properties, application notes, and quick‑reference values. |
+| **[MVC EXECUTIVE SUMMARY V5.0](docs/MVC_Executive_Summary_V5.0.pdf)** | High‑level management summary covering purpose, benefits, silicon‑reduction impact, cost advantages, and ecosystem relevance. |
 
 ---
 > 📧 [Contact](contact.md)
