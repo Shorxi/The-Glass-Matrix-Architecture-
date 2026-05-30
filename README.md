@@ -11,6 +11,20 @@
 This repository provides the complete open technical specification for a hybrid **Metallo‑Vitreous Composite (MVC)** carrier platform.  
 It features integrated macro‑fluidic cooling and universal carrier‑to‑board interconnects, establishing a new paradigm for industrial semiconductor packaging.
 
+### 🌊 Fluidic Interface Agnosticism & Sandwich-Cooling
+
+The macroscopic 4.0 mm coolant inlet and outlet ports are designed as a **universal fluidic interface**. The architecture intentionally omits a dictated coupling mechanism. To ensure maximum adaptability across diverse industrial deployment scenarios, the specific connection method is left entirely to the discretion of the hardware manufacturers.
+
+Compatible terminal connection methods include, but are not limited to:
+* **Threaded Adapters:** Direct screw-in fittings (e.g., standard industrial G1/4" threads).
+* **Soldered Flanges:** Permanent glass-to-metal soldering for hermetically sealed server environments.
+* **Tube Extensions:** Fused or press-fitted macroscopic glass/metal tube extensions.
+* **Clamping Systems:** Compression-based custom manifold docks.
+
+By leaving the terminal connection mathematically defined by diameter but mechanically open, the carrier operates as a true universal substrate. 
+
+**Top-Level Thermal Expansion:**
+While the internal Solid-Flow macro-channels provide extreme bottom-up thermal extraction, the flat top surface of the carrier and the exposed silicon die remain fully accessible. Manufacturers are encouraged to mount extended top-cooling solutions (such as direct-die water blocks or heavy-duty air coolers) directly onto the die. This enables a massive **"Sandwich-Cooling" configuration**, multiplying the thermal dissipation capacity for extreme-TDP applications.
 ---
 
 ## 🎯 Mission Statement
