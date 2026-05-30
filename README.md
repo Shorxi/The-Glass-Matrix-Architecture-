@@ -125,8 +125,8 @@ research institutions, and semiconductor manufacturers implementing the MVC arch
 
 | PDF Document | Description |
 |-------------|-------------|
-| **[CARRIER-TO-BOARD_INTERCONNECT_DOSSIER_EN.pdf](docs/CARRIER-TO-BOARD_INTERCONNECT_DOSSIER_EN.pdf)** | Universal interconnect specification for carrier‑to‑board I/O, including UBM stack, fluidic manifold, impedance rules, and inductive Co₂Z control bus. |
-| **[MASTER_DOSSIER_ARCHITECTURE_UPGRADE_V5.0_EN.pdf](docs/MASTER_DOSSIER_ARCHITECTURE_UPGRADE_V5.0_EN.pdf)** | Full architecture dossier for the 6.0 mm Solid‑Flow carrier, including material science, SLE manifold, geometry, fracture mechanics, and cost validation. |
+| **[CARRIER TO BOARD INTERCONNECT DOSSIER](docs/CARRIER-TO-BOARD_INTERCONNECT_DOSSIER_EN.pdf)** | Universal interconnect specification for carrier‑to‑board I/O, including UBM stack, fluidic manifold, impedance rules, and inductive Co₂Z control bus. |
+| **[MASTER DOSSIER ARCHITECTURE UPGRADE V5.0](docs/MASTER_DOSSIER_ARCHITECTURE_UPGRADE_V5.0_EN.pdf)** | Full architecture dossier for the 6.0 mm Solid‑Flow carrier, including material science, SLE manifold, geometry, fracture mechanics, and cost validation. |
 
 ---
 > 📧 [Contact](contact.md)
