@@ -2,6 +2,12 @@
 
 > *Transforming the foundation of high‑performance computing through passive, unyielding, and universally accessible carrier architecture.*
 
+> <img width="1536" height="1024" alt="Macro-channels are routed" src="https://github.com/user-attachments/assets/6c93e941-aceb-47ae-a0cb-6342327ce620" />
+
+
+> <img width="1536" height="1024" alt="Markro_channel" src="https://github.com/user-attachments/assets/a4c84e09-070a-4b78-a92d-975a0290a93d" />
+
+
 This repository provides the complete open technical specification for a hybrid **Metallo‑Vitreous Composite (MVC)** carrier platform.  
 It features integrated macro‑fluidic cooling and universal carrier‑to‑board interconnects, establishing a new paradigm for industrial semiconductor packaging.
 
@@ -95,6 +101,7 @@ Combined with the low carrier cost ($2.39), the total package cost becomes **dra
 | 🛠️ **[TASKS](TASKS.md)** | Implementation roadmap and task list for industry partners. |
 
 ---
+> 📧 [Contact](contact.md)
 
 ## 🔓 Open Platform Declaration
 
