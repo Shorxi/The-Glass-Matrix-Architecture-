@@ -37,6 +37,21 @@ The goal is simple and radical:
 - **Universal Access:** Make extreme cooling and high‑end packaging *available to the entire semiconductor industry* as open infrastructure.
 
 ---
+### 🔌 Electrical Transparency — Standard Board Integration
+
+The Solid‑Flow MVC Platform preserves the complete electrical data path used in
+conventional semiconductor packaging.  
+All signals pass from the silicon die through the carrier and into the PCB using
+industry‑standard interfaces:
+
+- ACF‑bonded die‑to‑carrier micro‑contacts  
+- Ultra‑low‑loss TGV vertical routing  
+- Universal Ti/Cu/Ni/Au UBM stack for BGA/LGA compatibility  
+
+No new protocols, sockets, or board‑level standards are required.  
+The carrier is electrically transparent and integrates seamlessly with any existing PCB ecosystem.
+
+---
 
 ## ⚙️ Platform Highlights
 
