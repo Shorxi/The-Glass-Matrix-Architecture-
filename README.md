@@ -101,6 +101,34 @@ Combined with the low carrier cost ($2.39), the total package cost becomes **dra
 | 🛠️ **[TASKS](TASKS.md)** | Implementation roadmap and task list for industry partners. |
 
 ---
+## 📚 Original Technical PDF Documents
+
+This section provides access to the full, unabridged PDF dossiers that define the  
+**Solid‑Flow Metallo‑Vitreous Carrier Platform (V5.0)** and its associated interconnect,  
+material science, and economic validation frameworks.
+
+These documents represent the authoritative reference for all industrial partners,  
+research institutions, and semiconductor manufacturers implementing the MVC architecture.
+
+---
+
+## 📚 Original Technical PDF Documents
+
+This repository includes the **official, unabridged PDF specifications** that define the  
+Solid‑Flow Metallo‑Vitreous Carrier Platform (V5.0).  
+These documents serve as the authoritative reference for all industrial partners,  
+research institutions, and semiconductor manufacturers implementing the MVC architecture.
+
+---
+
+### 📘 Official PDF Library
+
+| PDF Document | Description |
+|-------------|-------------|
+| **[CARRIER-TO-BOARD_INTERCONNECT_DOSSIER_EN.pdf](docs/CARRIER-TO-BOARD_INTERCONNECT_DOSSIER_EN.pdf)** | Universal interconnect specification for carrier‑to‑board I/O, including UBM stack, fluidic manifold, impedance rules, and inductive Co₂Z control bus. |
+| **[MASTER_DOSSIER_ARCHITECTURE_UPGRADE_V5.0_EN.pdf](docs/MASTER_DOSSIER_ARCHITECTURE_UPGRADE_V5.0_EN.pdf)** | Full architecture dossier for the 6.0 mm Solid‑Flow carrier, including material science, SLE manifold, geometry, fracture mechanics, and cost validation. |
+
+---
 > 📧 [Contact](contact.md)
 
 ## 🔓 Open Platform Declaration
