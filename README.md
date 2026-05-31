@@ -130,7 +130,6 @@ Combined with the low carrier cost ($2.39), the total package cost becomes **dra
 | 🔧 **[TECHNICAL_SPECIFICATION](TECHNICAL_SPECIFICATION.md)** | hardware and integration  |
 | ⚖️ **[LICENSE](LICENSE.md)** | Combined AGPL-3.0 + CERN-OHL-S license overview. |
 | 🛠️ **[TASKS](TASKS.md)** | Implementation roadmap and task list for industry partners. |
-TECHNICAL_SPECIFICATION.md
 
 ---
 
