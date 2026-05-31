@@ -131,15 +131,6 @@ Combined with the low carrier cost ($2.39), the total package cost becomes **dra
 | ⚖️ **[LICENSE](LICENSE.md)** | Combined AGPL-3.0 + CERN-OHL-S license overview. |
 | 🛠️ **[TASKS](TASKS.md)** | Implementation roadmap and task list for industry partners. |
 TECHNICAL_SPECIFICATION.md
----
-## 📚 Original Technical PDF Documents
-
-This section provides access to the full, unabridged PDF dossiers that define the  
-**Solid‑Flow Metallo‑Vitreous Carrier Platform (V5.0)** and its associated interconnect,  
-material science, and economic validation frameworks.
-
-These documents represent the authoritative reference for all industrial partners,  
-research institutions, and semiconductor manufacturers implementing the MVC architecture.
 
 ---
 
