@@ -124,7 +124,7 @@ Combined with the low carrier cost ($2.39), the total package cost becomes **dra
 | File | Function / Description |
 | --- | --- |
 | 📖 **[README](README.md)** | Overview and mission statement of the Solid-Flow MVC platform. |
-| 🏗️ **[ARCHITECTURE](ARCHITECTURE.md)** | Detailed specification of the MVC material and Solid-Flow carrier geometry. |
+| 🏗️ **[ARCHITECTURE](Architecture.md)** | Detailed specification of the MVC material and Solid-Flow carrier geometry. |
 | 🔌 **[INTERCONNECT](Interconnect.md)** | Universal carrier-to-board interface and electrical/fluidic I/O standards. |
 | 🌍 **[OPEN_HARDWARE](OPEN_HARDWARE.md)** | Open hardware declaration and integration rights for silicon vendors. |
 | ⚖️ **[LICENSE](LICENSE.md)** | Combined AGPL-3.0 + CERN-OHL-S license overview. |
